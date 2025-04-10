@@ -13,6 +13,6 @@ A simple data scraper that retrieves Ethereum (ETH-USD) price data from Yahoo Fi
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/uudam42/eth_price_scraper.git
